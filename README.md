@@ -17,7 +17,8 @@ Para acessar o portfólio, aperte: [aqui](https://www.maxbarros.dev)
 
 ## Demonstração
 
-(inserir imagem aqui após enviar para o git)
+![porfolio-max-barros](https://github.com/user-attachments/assets/bbd5e912-2e18-433d-84a4-59def07c4fcc)
+
 
 ## Em breve ;)
 
