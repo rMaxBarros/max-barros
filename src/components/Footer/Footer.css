@@ -1,0 +1,23 @@
+footer {
+    background-image: url("/public/images/background/footer-background.svg");
+    background-repeat: repeat;
+    margin-bottom: 0;
+    padding: 20px;
+}
+footer h3 {
+    text-align: center;
+}
+footer p {
+    text-align: center;
+}
+
+footer h4 {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 38px 0 0 0;
+}
+
+.buttons-footer {
+    display: flex;
+    justify-content: center;
+}

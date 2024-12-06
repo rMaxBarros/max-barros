@@ -1,0 +1,20 @@
+.position-cv-button {
+    text-align: center;
+    margin: 80px 0 40px 0;
+}
+
+/* Background balls */
+
+.skills {
+    background-image: url("/public/images/background/big-ball-blue-2.svg");
+    background-repeat: no-repeat;
+    background-position-y: 0%;
+    background-position-x: 34%;
+}
+
+.position-card {
+    background-image: url("/public/images/background/small-ball-blue-2.svg");
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+    background-position-x: 80%;
+}

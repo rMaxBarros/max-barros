@@ -1,0 +1,30 @@
+.hidden {
+    display: none;
+}
+
+.photo-max {
+    width: 94vw;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+@media screen and (min-width: 720px) {
+    .photo-max {
+        width: 40%;
+    }
+
+    .buttons {
+        justify-content: start;
+        padding: 0 0 0 14em;
+    }
+
+    main {
+        display: flex;
+        height: 90vh;
+    }
+}

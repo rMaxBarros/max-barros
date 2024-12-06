@@ -1,0 +1,31 @@
+.button-default {
+    color: #FFFFFF;
+    height: 70px;
+    padding: 0.9em;
+    border-radius: 13px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* Styles for Curriculum button */
+.cv-button {
+    background-color: var(--primary-blue);
+}
+
+.cv-button:hover {
+    background-color: #000000;
+    transition: .5s;
+}
+
+/* Styles for Projects buttons */
+.project-button {
+    background-color: var(--light-blue);
+}
+
+.project-button:hover {
+    background-color: var(--light-green);
+    transition: .5s;
+}

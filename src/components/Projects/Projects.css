@@ -1,0 +1,26 @@
+.projects-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
+
+.container-button {
+    text-align: center;
+}
+
+/* Background balls */
+
+.project-2 {
+    background-image: url("/public/images/background/small-ball-blue-3.svg");
+    background-repeat: no-repeat;
+    background-position-y: 0%;
+    background-position-x: 60%;
+}
+
+.projects-cards {
+    background-image: url("/public/images/background/big-ball-blue-3.svg");
+    background-repeat: no-repeat;
+    background-position-y: 60%;
+    background-position-x: 44%;
+}

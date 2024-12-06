@@ -1,0 +1,23 @@
+.cards-projects {
+    width: 80vw;
+    height: 46vw;
+    border-radius: 10px;
+    background-color: var(--light-green);
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.2);
+    padding: 8px;
+    align-content: center;
+    margin: 40px 0 40px 0;
+}
+
+.cards-projects img {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 720px) {
+    .cards-projects {
+        width: 45vw;
+        height: 26vw;
+    }
+}

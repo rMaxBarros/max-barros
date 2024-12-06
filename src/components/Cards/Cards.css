@@ -1,0 +1,36 @@
+.cards {
+    width: 300px;
+    height: 360px;
+    background-color: var(--light-green);
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.2);
+
+    padding: 1em;
+    border-radius: 19px;
+}
+
+.position-card {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card-image {
+    width: 100px;
+    height: 70px;
+
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 28px;
+    margin: 10px 0 10px 0;
+}
+
+@media screen and (min-width: 720px) {
+    .position-card {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+}

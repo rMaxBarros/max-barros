@@ -1,0 +1,21 @@
+.description-about-me {
+    padding: 20px 10vw 0 10vw;
+}
+
+.description-about-me p {
+    font-size: 1.3em;
+}
+
+.about-me {
+    background-image: url("/public/images/background/shape1-blue-4.svg");
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+    background-position-x: 100%;
+}
+
+.description-about-me {
+    background-image: url("/public/images/background/shape2-blue-4.svg");
+    background-repeat: no-repeat;
+    background-position-y: 19%;
+    background-position-x: 0%;
+}
