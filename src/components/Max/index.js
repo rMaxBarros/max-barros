@@ -16,10 +16,10 @@ function Max(){
                         source="./images/buttons/github-black-button.svg" 
                         alt="Logo GitHub"/>
                     <SocialButton 
-                        link=""
+                        link="https://dribbble.com/MaxBarros"
                         target="_blank"
-                        source="./images/buttons/ig-black-button.svg" 
-                        alt="Logo Instagram"/>
+                        source="./images/buttons/dribbble-black-button.svg" 
+                        alt="Logo Dribbble"/>
                     <SocialButton 
                         link="https://www.linkedin.com/in/max-barros/"
                         target="_blank"

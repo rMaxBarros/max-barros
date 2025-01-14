@@ -15,9 +15,9 @@ function Footer () {
                         source="./images/buttons/github-white-button.svg" 
                         alt="Logo GitHub"/>
                     <SocialButton 
-                        link=""
+                        link="https://dribbble.com/MaxBarros"
                         target="_blank"
-                        source="./images/buttons/ig-white-button.svg" 
+                        source="./images/buttons/dribbble-white-button.svg" 
                         alt="Logo Instagram"/>
                     <SocialButton 
                         link="https://www.linkedin.com/in/max-barros/"
